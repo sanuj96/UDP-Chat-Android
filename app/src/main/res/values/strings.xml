@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UDP Chat</string>
+    <string name="IPhead">Enter IP</string>
+    <string name="Messagehead">Enter Message</string>
+    <string name="Buttontext">Send</string>
+    <string name="DeviceIP">MyIP:128.168.0.121</string>
+</resources>
